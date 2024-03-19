@@ -1,0 +1,40 @@
+
+#row{
+    border: 2px solid black ;
+    width: 350px;
+    height: 250px;
+    margin:auto;
+    padding-top: 10px;
+    margin-top: 20px;
+}
+.but{
+    text-align:center;
+}
+
+button{
+    margin-top:10px;
+    padding:10px;
+    width:71px;
+    margin:10px 10px ;
+}
+
+#Bluebut{
+    background-color: blue;
+    color: white;
+    border: none;
+}
+#Yellowgreenbut{
+    background-color:yellowgreen;
+    color: white;
+    border: none;
+}
+#Orangebut{
+    background-color:orange;
+    color: white;
+    border: none;
+}
+#Graybut{
+    background-color:gray;
+    color: white;
+    border: none;
+}
